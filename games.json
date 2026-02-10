@@ -1,0 +1,66 @@
+
+[
+  {
+    "id": "1",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://picsum.photos/seed/2048/400/250",
+    "iframeUrl": "https://play2048.co/",
+    "category": "Puzzle",
+    "tags": ["Numbers", "Classic", "Logic"]
+  },
+  {
+    "id": "2",
+    "title": "Hextris",
+    "description": "A hexagonal version of the classic falling blocks game.",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/250",
+    "iframeUrl": "https://hextris.io/",
+    "category": "Arcade",
+    "tags": ["Blocks", "Strategy", "Fast"]
+  },
+  {
+    "id": "3",
+    "title": "Paper.io 2",
+    "description": "Conquer as much territory as possible and beat the competition.",
+    "thumbnail": "https://picsum.photos/seed/paperio/400/250",
+    "iframeUrl": "https://paper-io.com/",
+    "category": "Action",
+    "tags": ["IO", "Multiplayer", "Competitive"]
+  },
+  {
+    "id": "4",
+    "title": "Slope",
+    "description": "Navigate a high-speed ball down a neon slope.",
+    "thumbnail": "https://picsum.photos/seed/slope/400/250",
+    "iframeUrl": "https://y8.com/embed/slope",
+    "category": "Driving",
+    "tags": ["3D", "Reflex", "Neon"]
+  },
+  {
+    "id": "5",
+    "title": "Shell Shockers",
+    "description": "The world's most egg-citing egg-based shooter!",
+    "thumbnail": "https://picsum.photos/seed/shell/400/250",
+    "iframeUrl": "https://shellshock.io/",
+    "category": "Shooter",
+    "tags": ["3D", "Egg", "FPS"]
+  },
+  {
+    "id": "6",
+    "title": "Basketball Stars",
+    "description": "Dunk your way to victory in this fast-paced sports game.",
+    "thumbnail": "https://picsum.photos/seed/hoops/400/250",
+    "iframeUrl": "https://basketballstars.com/",
+    "category": "Sports",
+    "tags": ["Basketball", "2-Player", "Fun"]
+  },
+  {
+    "id": "7",
+    "title": "Crossy Road",
+    "description": "Why did the chicken cross the road? Find out yourself!",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/250",
+    "iframeUrl": "https://crossyroad.com/",
+    "category": "Arcade",
+    "tags": ["Casual", "Voxel", "Classic"]
+  }
+]
